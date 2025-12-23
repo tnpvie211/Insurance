@@ -5,7 +5,7 @@
 *Key Findings: 
 
     Loss ratio volatility is severity-driven, not frequency-driven. Claim counts are stable to declining, while average claim severity rises materially mid-year.
-A small proportion of severe claims contributes disproportionately to incurred losses, settlement duration, and reserve uncertainty.
+    A small proportion of severe claims contributes disproportionately to incurred losses, settlement duration, and reserve uncertainty.
 
 
     Loss emergence follows a predictable lag: claim intake peaks before severity, closures, and loss ratio deterioration.
